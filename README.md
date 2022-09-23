@@ -3,7 +3,7 @@ Repositório criado para inserir meus primeiros passos com JS através do curso 
 
 > Resultado
 
-![image](https://user-images.githubusercontent.com/24790794/191988940-d6bbf0f5-2919-4c3b-ba38-4387a4f34572.png)
+![image](https://user-images.githubusercontent.com/24790794/191997193-4f8ba6f9-553a-4ad4-9709-2708f3edc688.png)
 
 🛠️Tecnologias aprendidas
 - HTML
