@@ -1,7 +1,7 @@
 # Introdução a Java Script - DIO
 Repositório criado para inserir meus primeiros passos com JS através do curso da DIO.
 
-🔗[clique aqui para visualizar](https://thamyresarm.github.io/curso-dio-introducao-js/)
+🔗[Clique aqui para visualizar](https://thamyresarm.github.io/curso-dio-introducao-js/)
 
 > Resultado
 
